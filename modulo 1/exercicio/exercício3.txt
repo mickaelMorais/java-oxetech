@@ -1,0 +1,11 @@
+o estruturas condicionais são recursos das linguagens de programação 
+que executam diferentes ações com base em condições definidas pelo dev.
+
+ex:
+    
+se a > b {
+    escreva("a é maior que b")
+}
+senão {
+    escreva("b é maior que a")
+}
