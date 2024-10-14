@@ -1,6 +1,6 @@
 import java.util.Scanner;
 
- class Exercicio12 {
+ class Exercicio13 {
     public static void main(String[] args) {
         Scanner scan = new Scanner(System.in);
 
@@ -9,7 +9,7 @@ import java.util.Scanner;
 
         int valorInt = (int) valor;
 
-        System.out.printf("o valor convertido é %d",valorInt);
+        System.out.printf("o valor convertido mais 10 é %d",valorInt + 10);
 
         scan.close();
     }
